@@ -15,7 +15,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.hsphoenix.csg.sodi.Msg;
 
 /**
- * @author Yuvraj Dhiman (Yuvraj.Dhiman@.biz)
+ * @author Yuvraj Dhiman (Yuvraj.Dhiman@.cableone.biz)
  */
 public class SodiXmlConverter {
 
